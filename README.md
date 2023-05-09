@@ -11,3 +11,11 @@ This repository contains 100 Python practice problems to help you improve your c
 99. [Problem 99](./problem_99.py)
 100. [Problem 100](./problem_100.py)
 
+## Getting Started
+
+To get started, simply clone this repository to your local machine and open the files in your favorite Python IDE. Each file contains a single problem, along with a description of the problem, sample input and output, and a solution.
+
+## Contributing
+
+If you would like to contribute to this repository, please fork this project and submit a pull request. Your contributions are always welcome!
+
