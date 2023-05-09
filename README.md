@@ -1,4 +1,4 @@
-# 100 Python Practice Problems
+# 100 Python Practice Problems for Beginners
 
 This repository contains 100 Python practice problems to help you improve your coding skills. Each problem is listed in a separate file and includes a brief description of the problem, sample input and output, and a solution.
 
