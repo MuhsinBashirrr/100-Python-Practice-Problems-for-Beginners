@@ -5,11 +5,11 @@ This repository contains 100 Python practice problems to help you improve your c
 ## Table of Contents
 
 1. [Problem 1](./1.ipynb)
-2. [Problem 2](./problem_2.py)
-3. [Problem 3](./problem_3.py)
+2. [Problem 2](./2.ipynb)
+3. [Problem 3](./3.ipynb)
 ...
-99. [Problem 99](./problem_99.py)
-100. [Problem 100](./problem_100.py)
+99. [Problem 99](./99.ipynb)
+100. [Problem 100](./100.ipynb)
 
 ## Getting Started
 
